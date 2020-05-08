@@ -24,7 +24,6 @@ h1 {
 .box{
   position: relative;
   border:  100px solid black;
-  border-color: black;
   color: #C70039;
   background-color:#ECD6B7 ;
   padding: 4% 3% 3% 3%;
