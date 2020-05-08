@@ -3,7 +3,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  background-color: #7d0902;
+  background-color: rgb(125, 9, 2);
 }
 h1 {
   font-size: 175%;
@@ -12,14 +12,14 @@ h1 {
   text-align: center;
   font-family: serif;
   color: white;
-  border:  1px solid #7d0902; 
+  border:  1px solid rgb(125, 9, 2); 
 }
 
 
 
 /* Simple Responsive Framework. */
 .row {
-  border:  1px #7d0902;
+  border:  1px rgb(125, 9, 2);
   width: 100%;
 }
 
@@ -27,8 +27,8 @@ h1 {
   position: relative;
   border:  1px solid black;
   border-color: black;
-  color: #C70039;
-  background-color:#ECD6B7 ;
+  color: rgb(199, 0, 57);
+  background-color:rgb(236, 214, 183) ;
   padding: 4% 3% 3% 3%;
   font-family: serif;
   font-weight: bold;
@@ -42,7 +42,7 @@ h1 {
   width: 30%;
   padding:0;
   position: absolute;  
-  background-color: #C70039;
+  background-color: rgb(199, 0, 57);
   top: 0%;
   right: 0%;
   color:white;
