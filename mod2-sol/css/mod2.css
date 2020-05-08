@@ -26,6 +26,7 @@ h1 {
 .box{
   position: relative;
   border:  1px solid black;
+  overflow:hidden;
   border-color: black;
   color: rgb(199, 0, 57);
   background-color:rgb(236, 214, 183) ;
@@ -37,6 +38,8 @@ h1 {
 
 #tb1,#tb2,#tb3{
   border: 1px solid black;
+  clear: both;
+  overflow:hidden;
   font-size: 125%;
   text-align: center;
   width: 30%;
