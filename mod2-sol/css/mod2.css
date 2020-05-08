@@ -8,6 +8,7 @@
 h1 {
   font-size: 175%;
   margin: 30px;
+  margin-bottom: 40px;
   text-align: center;
   font-family: serif;
   color: white;
@@ -41,8 +42,7 @@ h1 {
   width: 30%;
   padding:0;
   position: absolute;  
-  background-color: black;
-  float: left;
+  background-color: #C70039;
   top: 0%;
   right: 0%;
   color:white;
@@ -79,6 +79,8 @@ h1 {
   .col-md-12 {
     width: 96%;
     margin-left: 2%;
+    top: 0%;
+    right: 0%;
     
   }
 }
