@@ -17,18 +17,19 @@ h1 {
 
 /* Simple Responsive Framework. */
 .row {
-  background-color: #7d0902;
+  background-color: black;
   width: 100%;
 }
 
 .box{
   position: relative;
-  border:  100px solid black;
+  border:  1px solid black;
+  border-color: black;
   color: #C70039;
   background-color:#ECD6B7 ;
   padding: 4% 3% 3% 3%;
   font-family: serif;
-  font-weight: bold; 
+  font-weight: bold;
   
 }
 
@@ -46,7 +47,7 @@ h1 {
   color:white;
 }
 
-}
+
 /********** Desktop Version **********/
 @media (min-width: 992px) {
   .col-lg-4 {
