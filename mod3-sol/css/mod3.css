@@ -1,4 +1,17 @@
+/* PLEASE READ THIS 
 
+	I HAVE TAKEN THE FOLLOWING AS REFERENCE:
+		FOR LARGE SCREEN(lg)(DESKTOP VIEW)= min. 1200px.
+		FOR MEDIUM SCREEN(md)(DESKTOP VIEW)= 768px to 991px.
+		FOR SMALL SCREEN(sm)(TABLET VIEW)= 576px to 767px.
+		FOR EXTRA SMALL SCREEN(xs)(MOBILE VIEW)= max. 575px.
+
+	For mobile view please check by selecting responsive to iphone 6(minimum screen available) and make sure that zoom is 100%, instead of moving the scroll bar.
+
+	If there is some problem... please mention in the comments.
+	THANK YOU.
+
+*/
 body {
   font-size: 10px;
   color: rgb(0, 0, 0);
