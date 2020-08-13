@@ -7,4 +7,4 @@ The aim of this project is to build a webpage for a restaurant.
 
 
 
-Link to webseite: https://mahidharvarma9.github.io/Restaurant-site/mod5-sol/ 
+Link to website: https://mahidharvarma9.github.io/Restaurant-site/mod5-sol/ 
