@@ -3,7 +3,7 @@
 
 The aim of this project is to buildd a webpage for a restaurant.
 
-![](Restaurant_Homepage.png | width=200)
+![](Restaurant_Homepage.png)
 
 ## Installation
 
