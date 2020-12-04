@@ -1,7 +1,7 @@
 # Restaurant Website
 
 
-The aim of this project is to develop webpage for restaurant.
+The aim of this project is to build a webpage for a restaurant.
 
 ![](Restaurant_Homepage.png)
 
