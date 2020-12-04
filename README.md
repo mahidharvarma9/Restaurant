@@ -1,7 +1,7 @@
 # Restaurant Website
 
 
-The aim of this project is to build a webpage for a restaurant.
+The aim of this project is to develop a railway reservation system.
 
 ![](Restaurant_Homepage.png)
 
